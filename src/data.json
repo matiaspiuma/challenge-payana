@@ -1,0 +1,24 @@
+{
+    "preguntas": [
+        {
+            "id": 1,
+            "question": "What do you thing about our products?"
+        },
+        {
+            "id": 2,
+            "question": "Which is your opinion about our services?"
+        },
+        {
+            "id": 3,
+            "question": "How do you rate our customer support?"
+        },
+        {
+            "id": 4,
+            "question": "Do you recommend our products?"
+        },
+        {
+            "id": 5,
+            "question": "How do you rate the quality of our products?"
+        }
+    ]
+}
